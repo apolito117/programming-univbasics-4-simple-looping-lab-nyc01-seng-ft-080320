@@ -1,7 +1,7 @@
 # Write your methods here
-def loop_message_n_times(message, 5)
+def loop_message_n_times(message, limit)
   count = 0
-  while count < 5 do
+  while count < limit do
     puts message
     count += 1
   end
