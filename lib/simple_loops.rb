@@ -1,5 +1,5 @@
 # Write your methods here
-def loop_message_n_times(hello world, limit)
+def loop_message_n_times(HelloWorld, limit)
   count = 0
   while count < limit do
     puts message
